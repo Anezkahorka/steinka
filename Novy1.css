@@ -7,6 +7,8 @@
             height:auto;
             background-image:url("https://cdn.pixabay.com/photo/2015/07/16/14/58/karlstejn-847794_1280.jpg");
             padding: 4em;
+            text-align: center;
+            font: normal bold Times, 'Times New Roman', Georgia, serif;
     }
    
    footer, nav { 
@@ -17,11 +19,6 @@
             padding: 1em;
    }
   
-   header {
-            text-align: center;
-            font: normal bold Times, 'Times New Roman', Georgia, serif;
-      
-   }
    
    footer {
             text-align: right;
