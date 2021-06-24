@@ -67,14 +67,3 @@
    footer {
             clear: center;
    }
-   
-   Responzivní web (na w3schools):
-
-   /* For mobile phones: */ 
-   @media only screen and (max-width: 768px) {
-    article {width: 50%;}
-   } 
-   @media only screen and (max-width: 600px) {
-    article {width: 100%;}
-    nav ul li {display: block;text-align: center;}
-  }
